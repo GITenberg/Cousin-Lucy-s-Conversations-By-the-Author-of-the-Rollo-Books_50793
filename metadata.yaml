@@ -1,4 +1,8 @@
 _repo: Cousin-Lucy-s-Conversations-By-the-Author-of-the-Rollo-Books_50793
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50793-h/images/cover.jpg
 creator:
   author:
     agent_name: Abbott, Jacob
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2136
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50793#Cousin-Lucy-s-Conversations-By-the-Author-of-the-Rollo-Books
 gutenberg_issued: '2015-12-30'
 gutenberg_type: Text
 identifiers:
